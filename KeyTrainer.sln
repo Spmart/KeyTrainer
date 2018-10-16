@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyTrainer", "KeyTrainer\KeyTrainer.csproj", "{A47CB10A-1666-421C-8B52-9EAC1AF25328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibForKeyTrainer", "LibForKeyTrainer\LibForKeyTrainer.csproj", "{8C6229DC-CE28-4CB6-9CE1-776644663DF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A47CB10A-1666-421C-8B52-9EAC1AF25328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A47CB10A-1666-421C-8B52-9EAC1AF25328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A47CB10A-1666-421C-8B52-9EAC1AF25328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A47CB10A-1666-421C-8B52-9EAC1AF25328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C6229DC-CE28-4CB6-9CE1-776644663DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6229DC-CE28-4CB6-9CE1-776644663DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6229DC-CE28-4CB6-9CE1-776644663DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6229DC-CE28-4CB6-9CE1-776644663DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
